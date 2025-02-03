@@ -1,0 +1,83 @@
+:root {
+  font-family: "Open Sans", serif;
+  line-height: auto;
+  
+}
+#page {
+  width: 1120px;
+  height: 3054px;
+  padding: 40px;
+  margin: 88px auto;
+
+}
+h1{
+  font-size: 36px;
+}
+
+h2{
+  font-size: 32px;
+}
+
+ol{
+  font-size: 28px;
+  font-weight: bold;
+  
+}
+
+ul {
+  list-style-type: disc;
+  font-size: 16px;
+  color:#333333;
+}
+
+p{
+  font-size: 16px;
+  color:#333333;
+  font-weight: regular;
+}
+
+.legenda{
+  font-size: 16px;
+  color:#333333;
+  font-weight: normal;
+}
+
+.headline{
+  color: #E1624F;
+  font-weight: bold;
+}
+
+.description{
+  font-style: italic;
+}
+
+.textsec{
+  font-weight: bold;
+
+}
+
+.blue{
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+.purple{
+  color: #591B98;
+  font-weight: bold;
+}
+.pink{
+  color: #E5245E;
+  font-weight: bold;
+}
+.orange{
+  color: #E95E10;
+  font-weight: bold;
+}
+
+img{
+  width: 100%;
+}
+
+.description{
+
+}
