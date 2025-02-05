@@ -8,17 +8,24 @@
   line-height: auto;
   
 }
+
+body {
+  background-color: #F5F4F0;
+  
+}
+
 #page {
   width: 1120px;
   height: 3054px;
   padding: 40px;
-  margin: auto;
+  box-sizing: border-box;
+  margin: 88px auto 80px;
+
 
 }
 h1{
   font-size: 36px;
   margin-top: 8px;
-  margin-bottom: 40px;
 }
 
 h2{
@@ -27,14 +34,15 @@ h2{
 }
 
 .descriptiontitle{
-  margin-bottom: 64px;
+  margin-bottom: 16px;
 }
 
-ol{
+h3{
   font-size: 28px;
   font-weight: bold;
   margin-top: 20px;
   margin-bottom: 4px;
+  margin-left: 20px;
   
 }
 
@@ -42,6 +50,8 @@ ul {
   list-style-type: disc;
   font-size: 16px;
   color:#333333;
+  margin-top: 3px;
+  margin-left: 19px;
 }
 
 p{
@@ -59,6 +69,7 @@ p{
 .headline{
   color: #E1624F;
   font-weight: bold;
+  text-transform: uppercase;
 }
 
 .description{
@@ -96,8 +107,12 @@ p{
 
 img{
   width: 100%;
+  margin-top: 48px;
+  background-image: contain;
 }
 
-.description{
-
+.conclusao {
+  margin-top: 80px;
+  text-align: center;
 }
+
